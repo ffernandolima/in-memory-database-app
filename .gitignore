@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/InMemoryDatabase/bin
+/src/InMemoryDatabase/obj
+/src/InMemoryDatabase.CLI/bin
+/src/InMemoryDatabase.CLI/obj
+/src/InMemoryDatabase.WebAPI/bin
+/src/InMemoryDatabase.WebAPI/obj
+/tests/InMemoryDatabase.Tests/bin
+/tests/InMemoryDatabase.Tests/obj
