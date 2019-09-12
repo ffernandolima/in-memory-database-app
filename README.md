@@ -2,7 +2,7 @@
 
 In-memory database app is an implementation of a database which uses only memory for storing data. 
 
-It implements some commands from the very known in-memory database called Redis.
+It implements some commands from the very known in-memory database called Redis (https://redis.io/).
 
 It supports the following commands:
 
